@@ -1,0 +1,6 @@
+{
+  "name": "S.R Medical Store",
+  "description": "Your trusted 24/7 pharmacy in More, Nalanda, Bihar offering genuine medicines, healthcare devices, surgical supplies, and prompt home delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
